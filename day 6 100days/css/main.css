@@ -1,0 +1,37 @@
+body{
+    background-color:gray;
+    text-align: center;
+    border-radius: 100px; 
+    margin: 50px;
+}
+
+#footer{
+    color:red;
+    margin:50px;
+}
+img{
+    border-radius:100px;
+    background-color:red;
+    
+}
+
+h1{
+    background-color: seashell;
+    margin: 15px;
+}
+
+#one-css{
+    background-color:seashell ;
+    margin: 15px;
+}
+
+#weekly-challenge{
+    background-color: seashell;
+    margin: 15px;
+}
+
+/*  weekly-challenge */ 
+
+a{
+    text-decoration: none;
+}
