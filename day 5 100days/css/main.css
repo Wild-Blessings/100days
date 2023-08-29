@@ -1,0 +1,17 @@
+body{
+    background-color:gray;
+    text-align: center;
+    border-radius: 100px; 
+    margin: 50px;
+}
+
+#footer{
+    color:red;
+    margin:50px;
+}
+img{
+    border-radius:100px;
+    background-color:red;
+    
+}
+

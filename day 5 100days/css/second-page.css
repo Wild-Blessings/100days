@@ -1,0 +1,31 @@
+body{
+    background-color: green;
+}
+
+.m{
+    color: white;
+    text-decoration: none;
+ 
+}
+nav{
+    background-color: black;
+    color: blanchedalmond;
+    
+}
+nav{
+    text-decoration: none;
+
+}
+p{
+    text-align: center;
+    color: white;
+}
+img{
+    background-color:red;
+    border-radius: 100px;
+    margin: 5px;
+}
+ul{
+    margin-left: 40px;
+ 
+}
