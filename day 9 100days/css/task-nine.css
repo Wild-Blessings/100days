@@ -1,0 +1,92 @@
+/* body{
+    background-image: url('/img/Kwest.png'); 
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+
+/* .card{
+    position: relative;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: rgba(255,255,255,0.1);
+    box-shadow: 5px 5px 30px rgba(0,0,0,0.4);
+    height: 350px;
+    width: 250px;
+}
+ */
+
+ body{
+     /* background-image: url(/img/Kwest.png); */
+     background-color: none;
+ }
+
+ #main-one{
+     background-color: rosybrown;
+     margin: 10px;
+     text-align: center;
+     padding-top: 5px;
+ }
+img{
+    border-radius: 100px;
+    width: 100px;
+    height: 100px;
+}
+
+#main-two{
+ background-color: sandybrown;
+ margin: 10px;
+ height: 500px;
+ width: auto;
+ }
+
+ #main-three{
+     background-color: slateblue;
+     margin: 10px;
+     height: 500px;
+     width: auto;
+ }
+
+ol{
+    margin: 30px;
+    background-color: yellow;
+    padding: 10px;
+    /* height: 350px; */
+}
+
+li{
+    margin: 30px;
+    background-color: yellowgreen;
+    list-style: none;
+    padding: 10px;
+}
+
+#xmd{
+    background-color: wheat;
+    margin-top: -10px;
+}
+
+h2{
+    text-align: center;
+    background-color:lightblue;
+}
+
+#td{
+    background-color: lightgray;
+    margin:30px;
+    text-align: center;
+}
+
+
+
+#footer{
+    background-color: thistle;
+    text-align: center;
+    margin: 10px;
+    
+    width: auto;
+    
+}
