@@ -1,0 +1,86 @@
+body{
+    background-color:wheat;
+}
+ #page-logo a {
+    margin: 0;
+    padding: 10px;
+    font-family:"Oleo Script", sans-serif;
+    text-decoration:none;
+    font-size: 50px;
+    text-transform:uppercase;
+    text-shadow: 1px 1px 2px black;
+    color:slateblue;
+    
+  }
+  
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 60px;
+
+}
+ol{
+    list-style:none;       
+} 
+
+ul{
+     list-style:none;
+    margin: 0;
+    padding: 0
+    
+}
+header ul{
+display: flex;
+}
+
+header li{
+    margin: 20px;
+
+}
+#hero{
+    height:800px;
+    background-image:url("/img/places/ocean.jpg");
+    background-size:cover;
+}
+#hero-content{
+    width:900px;
+    background-color: rgba(5,47,47,0.8);
+    box-shadow: 2px 4px 8px rgb(68,67,67);
+    border-radius: 8px;
+    text-align: center;
+    padding: 50px 0;
+    margin: 0 auto;
+    position: relative;
+    top:200px;
+}
+
+#hero-content h1 {
+    color:wheat;
+    text-transform: uppercase;
+    font-size: 50px;
+    font-family: "Releway",sans-serif;
+    margin: 0;
+}
+
+#hero-content p {
+    color: wheat;
+    text-transform: uppercase;
+    font-size: 24px;
+    font-weight: 300;
+    margin-bottom: 32px;
+}
+
+#hero-content a {
+    text-decoration: none;
+    background-color: rgb(255,251,0);
+    color:black;
+    font-size: 24px;
+    padding: 12px 24px;
+    border-radius: 8px;
+    font-weight: bold;
+    box-shadow: 2px 4px 8px rgb(68,67,67);
+}
+#hero-content a:hover{
+    background-color: rgb(255,238,0);
+}
